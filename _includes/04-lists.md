@@ -1,2 +1,3 @@
-* [x] :heart:
-* [] :smile:
+*  :heart:
+*  :smile:
+  * :weary:
